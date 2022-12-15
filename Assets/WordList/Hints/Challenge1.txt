@@ -1,0 +1,20 @@
+right,directly,squarely
+loose,roomy,extensive
+small,slender,lean,slight
+bend,loop,wind,curl
+sharp,acute,pointed
+sphere,round,ball-shaped,global-shaped
+Diminutive - tiny,little,pocket,petite ;extremely or unusually small
+little person,dwarf,pygmy
+huge,large,expansive,giant
+massive,enormous,gigantic
+bent,twisted,hooked,out of shape
+round,ring-shaped,discoid
+pointed,v-shaped,forked
+vitality,excitement,Flat
+solid,rounded,stereoscopic,holographic,pop-up
+subside,let up,decrease,decline,fade
+expand,swell,explode,multiply
+restrict,limit,curb
+blank,inexpressive
+excess,too many,superfluity

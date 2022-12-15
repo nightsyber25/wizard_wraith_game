@@ -1,0 +1,20 @@
+timepiece,timer
+just now,newly,not long ago
+term,phase,session,while
+instant,moment
+full length,time scale,extent
+over,done,ended,finished
+in attendance,attending,available
+time ahead, hereafter
+earlybright,light of day
+after dark,evening,night
+one-time,previous,earlier,prior
+at noon yesterday
+plan,program,timetable
+period of time,period of 1000 years
+decennary,period of 10 years
+prehistoric,primeval,primal,ancient
+expedite,quicken,speed
+backsliding,degeneration,relapsing
+occasional,infrequent,irregular,periodic
+ephemeral,evanescent,fleeting,fugitive

@@ -1,0 +1,20 @@
+legislator,Member of parliament,representative
+rector,clergyman,pastor
+administration,council,leadership,management
+self-government
+charter,laws,rules,regulations
+invoice
+revision,edit,rewrite
+lawlessness,riot
+election,ticket,poll
+alliance, partnership
+commoner,poor people
+despotism,autocracy
+spinmeister,brainwasher,persuader,troubleshooter
+kingship,sovereignty
+attitude,doctrine,ideology,logic
+dominance,supremacy,primacy
+democratic,equitable
+religion,devotion,godliness,faith
+faithful,constant,reliable
+authoritarian,dictatorial,repressive
