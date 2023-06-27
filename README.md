@@ -1,2 +1,2 @@
 # wizard_wraith
- word puzzle game using unity
+ word puzzle hangmanlike game develop with unity
